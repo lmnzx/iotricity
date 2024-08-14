@@ -37,6 +37,6 @@
 - https://thenumb.at/
 
 ## Contact me
-Email :  sayan@sent.com
+Email :  sayan@sent.com  
 Linkedin : [me](https://www.linkedin.com/in/snxk/)
 
